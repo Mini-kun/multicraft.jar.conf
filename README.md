@@ -1,2 +1,2 @@
 # multicraft.jar.conf
-Une collection de fichiers .jar.conf pour Multicraft
+Use on Royal Technica Panel .jar.conf pour Multicraft
